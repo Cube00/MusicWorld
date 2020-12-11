@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/hinted-Roboto_GEOMt.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/Roboto_GEOMt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/hinted-Roboto_GEOMt.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/Roboto_GEOMt.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/Roboto_GEOMt.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Roboto_GEOMt.svg#roboto') format('svg');
+    /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'zrnic';
+    src: url('../fonts/zrnicrg.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/ZrnicRg-Regular?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/zrnicrg.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/ZrnicRg-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/ZrnicRg-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/ZrnicRg-Regular#Zrnic') format('svg');
+    /* Legacy iOS */
+}
